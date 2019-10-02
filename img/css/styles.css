@@ -1,0 +1,30 @@
+header {
+    background-color: #a52a2a;
+    color: #ffffff; 
+    text-align: center;
+}
+body{
+    font-size: 18px; 
+    margin-left: 100px;
+    margin-right:1050px;
+
+}
+footer {
+    background-color:#000000;
+    color: #ffffff; 
+    font-size: 20px;
+    text-align: center;
+}
+.cars{
+    text-align: center;
+}
+
+#border{
+    border: 3px dotted black;     
+}
+span{ 
+    color: #0000FF; 
+}
+em {
+    color: #0000FF;
+}
